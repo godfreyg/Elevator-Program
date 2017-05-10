@@ -1,0 +1,79 @@
+C:\Users\1420631\Desktop\project3\project3\bin\Debug\project3.exe.config
+C:\Users\1420631\Desktop\project3\project3\bin\Debug\project3.exe
+C:\Users\1420631\Desktop\project3\project3\bin\Debug\project3.pdb
+C:\Users\1420631\Desktop\project3\project3\obj\Debug\project3.csprojResolveAssemblyReference.cache
+C:\Users\1420631\Desktop\project3\project3\obj\Debug\project3.Form1.resources
+C:\Users\1420631\Desktop\project3\project3\obj\Debug\project3.Properties.Resources.resources
+C:\Users\1420631\Desktop\project3\project3\obj\Debug\project3.csproj.GenerateResource.Cache
+C:\Users\1420631\Desktop\project3\project3\obj\Debug\project3.exe
+C:\Users\1420631\Desktop\project3\project3\obj\Debug\project3.pdb
+C:\Users\GODFREY\Desktop\project3\project3\bin\Debug\project3.exe.config
+C:\Users\GODFREY\Desktop\project3\project3\obj\Debug\project3.exe
+C:\Users\GODFREY\Desktop\project3\project3\obj\Debug\project3.pdb
+C:\Users\GODFREY\Desktop\project3\project3\bin\Debug\project3.exe
+C:\Users\GODFREY\Desktop\project3\project3\bin\Debug\project3.pdb
+C:\Users\GODFREY\Desktop\project3\project3\obj\Debug\project3.csprojResolveAssemblyReference.cache
+C:\Users\GODFREY\Desktop\project3\project3\obj\Debug\project3.Form1.resources
+C:\Users\GODFREY\Desktop\project3\project3\obj\Debug\project3.Properties.Resources.resources
+C:\Users\GODFREY\Desktop\project3\project3\obj\Debug\project3.csproj.GenerateResource.Cache
+C:\Users\1420631\Desktop\project3.4\project3\bin\Debug\project3.exe.config
+C:\Users\1420631\Desktop\project3.4\project3\obj\Debug\project3.exe
+C:\Users\1420631\Desktop\project3.4\project3\obj\Debug\project3.pdb
+C:\Users\1420631\Desktop\project3.4\project3\bin\Debug\project3.exe
+C:\Users\1420631\Desktop\project3.4\project3\bin\Debug\project3.pdb
+C:\Users\1420631\Desktop\project3.4\project3\obj\Debug\project3.csprojResolveAssemblyReference.cache
+C:\Users\1420631\Desktop\project3.4\project3\obj\Debug\project3.Form1.resources
+C:\Users\1420631\Desktop\project3.4\project3\obj\Debug\project3.Properties.Resources.resources
+C:\Users\1420631\Desktop\project3.4\project3\obj\Debug\project3.csproj.GenerateResource.Cache
+C:\Users\GODFREY\Desktop\project for lift\project3.5\project3\bin\Debug\project3.exe.config
+C:\Users\GODFREY\Desktop\project for lift\project3.5\project3\obj\Debug\project3.exe
+C:\Users\GODFREY\Desktop\project for lift\project3.5\project3\obj\Debug\project3.pdb
+C:\Users\GODFREY\Desktop\project for lift\project3.5\project3\bin\Debug\project3.exe
+C:\Users\GODFREY\Desktop\project for lift\project3.5\project3\bin\Debug\project3.pdb
+C:\Users\GODFREY\Desktop\project for lift\project3.5\project3\obj\Debug\project3.csprojResolveAssemblyReference.cache
+C:\Users\GODFREY\Desktop\project for lift\project3.5\project3\obj\Debug\project3.Form1.resources
+C:\Users\GODFREY\Desktop\project for lift\project3.5\project3\obj\Debug\project3.Properties.Resources.resources
+C:\Users\GODFREY\Desktop\project for lift\project3.5\project3\obj\Debug\project3.csproj.GenerateResource.Cache
+C:\Users\GODFREY\Desktop\project for lift\project3.7\project3\bin\Debug\project3.exe.config
+C:\Users\GODFREY\Desktop\project for lift\project3.7\project3\obj\Debug\project3.exe
+C:\Users\GODFREY\Desktop\project for lift\project3.7\project3\obj\Debug\project3.pdb
+C:\Users\GODFREY\Desktop\project for lift\project3.7\project3\bin\Debug\project3.exe
+C:\Users\GODFREY\Desktop\project for lift\project3.7\project3\bin\Debug\project3.pdb
+C:\Users\GODFREY\Desktop\project for lift\project3.7\project3\obj\Debug\project3.csprojResolveAssemblyReference.cache
+C:\Users\GODFREY\Desktop\project for lift\project3.7\project3\obj\Debug\project3.Form1.resources
+C:\Users\GODFREY\Desktop\project for lift\project3.7\project3\obj\Debug\project3.Properties.Resources.resources
+C:\Users\GODFREY\Desktop\project for lift\project3.7\project3\obj\Debug\project3.csproj.GenerateResource.Cache
+C:\Users\GODFREY\Desktop\project for lift\project3.7\project3\obj\Debug\project3.Form2.resources
+E:\project3.7 - Copy\project3\bin\Debug\project3.exe.config
+E:\project3.7 - Copy\project3\obj\Debug\project3.exe
+E:\project3.7 - Copy\project3\obj\Debug\project3.pdb
+E:\project3.7 - Copy\project3\obj\Debug\project3.csprojResolveAssemblyReference.cache
+E:\project3.7 - Copy\project3\obj\Debug\project3.Form1.resources
+E:\project3.7 - Copy\project3\obj\Debug\project3.Form2.resources
+E:\project3.7 - Copy\project3\obj\Debug\project3.Properties.Resources.resources
+E:\project3.7 - Copy\project3\obj\Debug\project3.csproj.GenerateResource.Cache
+E:\project3.7 - Copy\project3\bin\Debug\project3.exe
+E:\project3.7 - Copy\project3\bin\Debug\project3.pdb
+E:\project3.7 - Copy\project3\obj\Debug\project3.Form3.resources
+G:\project3.7 - Copy\project3\bin\Debug\project3.exe.config
+G:\project3.7 - Copy\project3\obj\Debug\project3.exe
+G:\project3.7 - Copy\project3\obj\Debug\project3.pdb
+G:\project3.7 - Copy\project3\bin\Debug\project3.exe
+G:\project3.7 - Copy\project3\bin\Debug\project3.pdb
+G:\project3.7 - Copy\project3\obj\Debug\project3.csprojResolveAssemblyReference.cache
+G:\project3.7 - Copy\project3\obj\Debug\project3.Form1.resources
+G:\project3.7 - Copy\project3\obj\Debug\project3.Form2.resources
+G:\project3.7 - Copy\project3\obj\Debug\project3.Form3.resources
+G:\project3.7 - Copy\project3\obj\Debug\project3.Properties.Resources.resources
+G:\project3.7 - Copy\project3\obj\Debug\project3.csproj.GenerateResource.Cache
+C:\Users\GODFREY\Desktop\project for lift\project3.8\project3\bin\Debug\project3.exe.config
+C:\Users\GODFREY\Desktop\project for lift\project3.8\project3\obj\Debug\project3.exe
+C:\Users\GODFREY\Desktop\project for lift\project3.8\project3\obj\Debug\project3.pdb
+C:\Users\GODFREY\Desktop\project for lift\project3.8\project3\bin\Debug\project3.exe
+C:\Users\GODFREY\Desktop\project for lift\project3.8\project3\bin\Debug\project3.pdb
+C:\Users\GODFREY\Desktop\project for lift\project3.8\project3\obj\Debug\project3.csprojResolveAssemblyReference.cache
+C:\Users\GODFREY\Desktop\project for lift\project3.8\project3\obj\Debug\project3.Form1.resources
+C:\Users\GODFREY\Desktop\project for lift\project3.8\project3\obj\Debug\project3.Form2.resources
+C:\Users\GODFREY\Desktop\project for lift\project3.8\project3\obj\Debug\project3.Form3.resources
+C:\Users\GODFREY\Desktop\project for lift\project3.8\project3\obj\Debug\project3.Properties.Resources.resources
+C:\Users\GODFREY\Desktop\project for lift\project3.8\project3\obj\Debug\project3.csproj.GenerateResource.Cache
